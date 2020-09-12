@@ -8,5 +8,7 @@ Use this file at your own risk, and do not use the information or code to make m
 ## Objective
 This file was developed to help people administrate the Diabetes type 1 using the xDrip data.
 
+## Configure to your data source
 
+![GitHub Logo](/changeSource.png)
 
