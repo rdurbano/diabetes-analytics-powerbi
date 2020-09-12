@@ -13,6 +13,13 @@ This file was developed to help people administrate the Diabetes type 1 using th
 * Download from site https://www.microsoft.com/pt-br/download/details.aspx?id=58494
 * Download from Windows Store https://www.microsoft.com/en-us/store/apps/windows
 
+## Export Data From xDrip
+Export CSV file from xDrip to use in Power BI
+
+![GitHub Logo](/Export_tela1.png)<br><br>
+![GitHub Logo](/Export_tela2.png)
+
+
 ## Configure to your data source
 
 ![GitHub Logo](/changeSource.png)
