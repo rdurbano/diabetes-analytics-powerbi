@@ -22,5 +22,8 @@ Export CSV file from xDrip to use in Power BI
 
 ## Configure to your data source
 
+1. Click the button to open the main window
+2. Select the CSV file that you export from xDrip
+3. Click the button on the upper left corner "Close And Apply"<br>
 ![GitHub Logo](/changeSource.png)
 
