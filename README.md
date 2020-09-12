@@ -22,7 +22,7 @@ Export CSV file from xDrip to use in Power BI
 ## Configure to your data source
 
 1. Install Power BI Desktop
-2. Download the file on this git Controle Glicemia.pbix
+2. Download the file on this git <b>DiabetesAnalytics.pbix</b>
 3. In the tab "Home" click on "Transform Data"
 
 Now we need to configure the Glicose Target
